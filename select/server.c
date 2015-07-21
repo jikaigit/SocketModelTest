@@ -4,8 +4,6 @@
 
 #include <stdio.h>
 #include <sys/socket.h>
-#include <netinet/ip.h>
-#include <sys/types.h>
 #include <arpa/inet.h>
 #include <sys/select.h>
 #include <netinet/in.h>
